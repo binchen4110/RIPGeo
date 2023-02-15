@@ -1,5 +1,8 @@
 # RIPGeo
-![](https://img.shields.io/badge/python-3.8.13-green)![](https://img.shields.io/badge/pytorch-1.12.1-green)![](https://img.shields.io/badge/cudatoolkit-11.6.0-green)![](https://img.shields.io/badge/cudnn-7.6.5-green)
+![](https://img.shields.io/badge/python-3.8.13-green)
+![](https://img.shields.io/badge/pytorch-1.12.1-green)
+![](https://img.shields.io/badge/cudatoolkit-11.6.0-green)
+![](https://img.shields.io/badge/cudnn-7.6.5-green)
 
 This folder provides a reference implementation of **RIPGeo**, as described in the paper: "RIPGeo: Robust Street-Level IP Geolocation".
 
